@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1550658788 source:c:\users\istván\desktop\prog\cyk algoritmus\cyk\main.cpp
+	<iostream>
+	<fstream>
+	<time.h>
+	<string>
+
