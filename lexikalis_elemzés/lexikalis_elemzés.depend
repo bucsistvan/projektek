@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551796885 source:c:\users\istván\desktop\prog\lexikalis_elemzés\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
