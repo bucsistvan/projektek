@@ -1,7 +1,0 @@
-abcd
-SA
-aabbdcc
-S->aS
-S->bAc
-A->bAc
-A->d
