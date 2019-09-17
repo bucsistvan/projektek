@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552134539 source:c:\users\istván\desktop\prog\ll1\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<time.h>
+	<string>
+	<stdlib.h>
+
