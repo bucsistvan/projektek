@@ -1,0 +1,695 @@
+{
+  "player": true,
+  "width": 500.0,
+  "height": 0.0,
+  "border": 30.0,
+  "top": 40.0,
+  "CirclesColor": [
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ],
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ],
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ],
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ],
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ],
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ],
+    [
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      },
+      {
+        "red": 1.0,
+        "green": 1.0,
+        "blue": 1.0,
+        "opacity": 1.0,
+        "platformPaint": {
+          "argb": -1,
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0,
+          "a": 1.0,
+          "type": "COLOR",
+          "proportional": false,
+          "isMutable": false
+        }
+      }
+    ]
+  ]
+}
